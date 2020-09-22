@@ -25,7 +25,7 @@ export const counterSlice = createSlice({
 export const tiubsSlice = createSlice({
   name: 'tiubs',
   initialState: {
-    name: 'leite',
+    name: 'test',
   },
   reducers: {
     setName: state => {
